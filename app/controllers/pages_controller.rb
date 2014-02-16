@@ -7,4 +7,7 @@ class PagesController < ApplicationController
 
   def events
   end
+
+  def contact
+  end
 end
